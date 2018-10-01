@@ -1,4 +1,4 @@
 title = "My New Hugo Site"
-baseurl = "http://volkirk.local/"
+baseurl = "https://volkirk.netlify.com/"
 languageCode = "en-us"
 theme = "nofancy"
