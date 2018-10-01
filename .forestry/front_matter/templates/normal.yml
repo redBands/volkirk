@@ -8,3 +8,5 @@ fields:
   label: Date
   config:
     date_format: DD/MM/YYYY
+pages:
+- content/post/gallery/xmas.md
