@@ -9,4 +9,5 @@ fields:
   config:
     date_format: DD/MM/YYYY
 pages:
+- content/post/visitor-survey.md
 - content/post/gallery/xmas.md
