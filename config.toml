@@ -1,0 +1,4 @@
+title = "My New Hugo Site"
+baseurl = "http://volkirk.local/"
+languageCode = "en-us"
+theme = "nofancy"
