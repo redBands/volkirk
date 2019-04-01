@@ -1,7 +1,6 @@
 ---
 label: normal
 hide_body: false
-is_partial: false
 fields:
 - type: datetime
   name: date
@@ -9,5 +8,6 @@ fields:
   config:
     date_format: DD/MM/YYYY
 pages:
+- content/post/work.md
 - content/post/visitor-survey.md
 - content/post/gallery/xmas.md
